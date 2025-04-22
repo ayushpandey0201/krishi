@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Ground/Land -->
+    <path d="M5 35C5 35 10 33 20 33C30 33 35 35 35 35" stroke="#5D4037" stroke-width="4" stroke-linecap="round"/>
+    <path d="M5 35C5 35 10 33 20 33C30 33 35 35 35 35" stroke="#8D6E63" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Baby Rice Stems -->
+    <path d="M10 33L10 30" stroke="#1B5E20" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M15 33L15 31" stroke="#1B5E20" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M25 33L25 31" stroke="#1B5E20" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M30 33L30 30" stroke="#1B5E20" stroke-width="1.5" stroke-linecap="round"/>
+    
+    <!-- Main Rice stem -->
+    <path d="M20 5L20 35" stroke="#1B5E20" stroke-width="2.5" stroke-linecap="round"/>
+    
+    <!-- Main Rice grains (more and denser) -->
+    <path d="M15 8C15 8 17 6 20 6C23 6 25 8 25 8" stroke="#2E7D32" stroke-width="2" fill="none"/>
+    <path d="M15 10C15 10 17 8 20 8C23 8 25 10 25 10" stroke="#2E7D32" stroke-width="2" fill="none"/>
+    <path d="M15 12C15 12 17 10 20 10C23 10 25 12 25 12" stroke="#2E7D32" stroke-width="2" fill="none"/>
+    <path d="M15 14C15 14 17 12 20 12C23 12 25 14 25 14" stroke="#2E7D32" stroke-width="2" fill="none"/>
+    <path d="M15 16C15 16 17 14 20 14C23 14 25 16 25 16" stroke="#2E7D32" stroke-width="2" fill="none"/>
+    <path d="M15 18C15 18 17 16 20 16C23 16 25 18 25 18" stroke="#2E7D32" stroke-width="2" fill="none"/>
+    <path d="M15 20C15 20 17 18 20 18C23 18 25 20 25 20" stroke="#2E7D32" stroke-width="2" fill="none"/>
+    <path d="M15 22C15 22 17 20 20 20C23 20 25 22 25 22" stroke="#2E7D32" stroke-width="2" fill="none"/>
+    <path d="M15 24C15 24 17 22 20 22C23 22 25 24 25 24" stroke="#2E7D32" stroke-width="2" fill="none"/>
+    <path d="M15 26C15 26 17 24 20 24C23 24 25 26 25 26" stroke="#2E7D32" stroke-width="2" fill="none"/>
+    <path d="M15 28C15 28 17 26 20 26C23 26 25 28 25 28" stroke="#2E7D32" stroke-width="2" fill="none"/>
+    <path d="M15 30C15 30 17 28 20 28C23 28 25 30 25 30" stroke="#2E7D32" stroke-width="2" fill="none"/>
+    
+    <!-- Additional decorative leaves (more and varied) -->
+    <path d="M18 6C18 6 20 4 22 6" stroke="#388E3C" stroke-width="1.5" fill="none"/>
+    <path d="M18 8C18 8 20 6 22 8" stroke="#388E3C" stroke-width="1.5" fill="none"/>
+    <path d="M18 10C18 10 20 8 22 10" stroke="#388E3C" stroke-width="1.5" fill="none"/>
+    <path d="M18 12C18 12 20 10 22 12" stroke="#388E3C" stroke-width="1.5" fill="none"/>
+    <path d="M18 14C18 14 20 12 22 14" stroke="#388E3C" stroke-width="1.5" fill="none"/>
+    <path d="M18 16C18 16 20 14 22 16" stroke="#388E3C" stroke-width="1.5" fill="none"/>
+    <path d="M18 18C18 18 20 16 22 18" stroke="#388E3C" stroke-width="1.5" fill="none"/>
+    <path d="M18 20C18 20 20 18 22 20" stroke="#388E3C" stroke-width="1.5" fill="none"/>
+    <path d="M18 22C18 22 20 20 22 22" stroke="#388E3C" stroke-width="1.5" fill="none"/>
+    <path d="M18 24C18 24 20 22 22 24" stroke="#388E3C" stroke-width="1.5" fill="none"/>
+    <path d="M18 26C18 26 20 24 22 26" stroke="#388E3C" stroke-width="1.5" fill="none"/>
+    <path d="M18 28C18 28 20 26 22 28" stroke="#388E3C" stroke-width="1.5" fill="none"/>
+</svg> 

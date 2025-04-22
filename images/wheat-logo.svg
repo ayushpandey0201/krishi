@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="wheatGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#FFD700"/>
+            <stop offset="100%" style="stop-color:#4CAF50"/>
+        </linearGradient>
+    </defs>
+    <g transform="translate(106,56) scale(1.2)">
+        <!-- Left wheat stalk -->
+        <path d="M60,400 L60,200 
+                 M40,220 L60,200 L80,220
+                 M30,260 L60,230 L90,260
+                 M20,300 L60,260 L100,300
+                 M10,340 L60,290 L110,340" 
+              stroke="url(#wheatGradient)" stroke-width="24" stroke-linecap="round" fill="none"/>
+        
+        <!-- Middle wheat stalk -->
+        <path d="M150,400 L150,180
+                 M130,200 L150,180 L170,200
+                 M120,240 L150,210 L180,240
+                 M110,280 L150,240 L190,280
+                 M100,320 L150,270 L200,320"
+              stroke="url(#wheatGradient)" stroke-width="24" stroke-linecap="round" fill="none"/>
+        
+        <!-- Right wheat stalk -->
+        <path d="M240,400 L240,200
+                 M220,220 L240,200 L260,220
+                 M210,260 L240,230 L270,260
+                 M200,300 L240,260 L280,300
+                 M190,340 L240,290 L290,340"
+              stroke="url(#wheatGradient)" stroke-width="24" stroke-linecap="round" fill="none"/>
+    </g>
+</svg> 
